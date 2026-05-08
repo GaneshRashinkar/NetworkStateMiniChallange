@@ -1,7 +1,11 @@
-This app is part of Network state mini challange by PL Coding Dev Campus(https://www.pl-coding.com/campus)
+## PL-Coding mini challange
+***[Easy] [System APIs · Network State · State Management · UI] - Still Connected***
 
-In this application network state is monitored
-Please check the video for more detail
+### Project Objective
+To practice **Monitor connectivity and Observe Real Internet Connectivity** in Jetpack Compose.
+
+🎭 **Scenario:**
+This mini-challenge focuses on building a simple single-screen application that reflects the device’s current internet connection state in real time and clearly communicates whether the user is connected, has lost the connection, or has intentionally disconnected by enabling Airplane Mode.
 
 
 
